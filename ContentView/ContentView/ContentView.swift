@@ -14,7 +14,7 @@ struct ContentView: View {
 }
 
 struct ViewUI: View {
-    var x = "Alfonso"
+    var x = "Write your message"
     var body: some View {
         VStack {
             Image(systemName: "globe")
